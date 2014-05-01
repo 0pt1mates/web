@@ -1,4 +1,3 @@
-#+title: Web
 #+author: José Miguel Martínez Carrasco
 #+email: jm@0pt1mates.com
 
@@ -8,18 +7,19 @@ Build 0pt1mates web site with a static web generator.
 
 I have looked into the following tools.
 
-** [[http://wintersmith.io/][Wintersmith]]
-** [[http://docpad.org][DocPad]]
-** [[http://nanoc.ws][Nanoc]]
-** [[http://middlemanapp.com][Middleman]]
-** [[http://blog.getpelican.com/][Pelican]]
-** [[http://liquidz.github.io/misaki/][Misaki]]
-** [[http://ringce.com/hyde][Hyde]]
+- [[http://wintersmith.io/][Wintersmith]]
+- [[http://docpad.org][DocPad]]
+- [[http://nanoc.ws][Nanoc]]
+- [[http://middlemanapp.com][Middleman]]
+- [[http://blog.getpelican.com/][Pelican]]
+- [[http://liquidz.github.io/misaki/][Misaki]]
+- [[http://ringce.com/hyde][Hyde]]
 
 There is a good summary of some of them [[http://staticgen.com/][here]].
 
 
 But finally I decided to go for [[%20http://lab.hakim.se/reveal-js][reveal.js]] + [[http://orgmode.org][org-mode.]]
+
 
 * Time report
 
