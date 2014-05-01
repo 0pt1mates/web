@@ -1,0 +1,23 @@
+#+title: 0pt1mates LTD
+#+author: José Miguel Martínez Carrasco
+#+email: jm@0pt1mates.com
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/
+#+REVEAL_THEME: solarized
+
+* Abstract
+
+Software engineer with extensive experience in java projects, using a wide spectrum of
+technologies, tools and methodologies: jvm, scala, sbt, xml, relational and nosql databases, deployment
+automation, paas and iaas.
+
+* About
+
+0pt1mates LTD registered in England No 8851502
+
+Unit 11, Hove Business Centre
+
+Fonthill Road, Hove
+
+East Sussex
+
+BN3 6HA
