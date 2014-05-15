@@ -21,24 +21,39 @@ There is a good summary of some of them [[http://staticgen.com/][here]].
 But finally I decided to go for [[%20http://lab.hakim.se/reveal-js][reveal.js]] + [[http://orgmode.org][org-mode.]]
 
 
-* Time report
+* Org-mode publishing
+  CLOCK: [2014-05-15 Thu 21:37]
 
-#+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2014-05-01 Thu 22:31]
-| Headline                          | Time   |      |
-|-----------------------------------+--------+------|
-| *Total time*                      | *1:04* |      |
-|-----------------------------------+--------+------|
-| Time report                       | 1:04   |      |
-| \__ DONE available tools research |        | 0:14 |
-| \__ DONE write content            |        | 0:32 |
-| \__ DONE revealjs slide           |        | 0:18 |
-#+END:
 
-** DONE available tools research
-  CLOCK: [2014-04-30 Wed 18:09]--[2014-04-30 Wed 18:23] =>  0:14
-** DONE write content
-   CLOCK: [2014-05-01 Thu 18:26]--[2014-05-01 Thu 18:58] =>  0:32
-** DONE revealjs slide
-   CLOCK: [2014-05-01 Thu 19:37]--[2014-05-01 Thu 19:55] =>  0:18
-   CLOCK: [2014-05-01 Thu 19:20]--[2014-05-01 Thu 19:20] =>  0:00
+ Proyecto.el content should be added to your *.emacs*, *.emacs.d/init.el* or *.emacs.d/personal/custom.el* if you are using [[https://github.com/bbatsov/prelude][Emacs Prelude]].
+
+ #+INCLUDE: "./proyecto.el" src emacs-lisp
+
+ * Time report
+
+ #+BEGIN: clocktable :maxlevel 2 :scope subtree
+ #+CAPTION: Clock summary at [2014-05-01 Thu 22:31]
+ | Headline                          | Time   |      |
+ |-----------------------------------+--------+------|
+ | *Total time*                      | *1:04* |      |
+ |-----------------------------------+--------+------|
+ | Time report                       | 1:04   |      |
+ | \__ DONE available tools research |        | 0:14 |
+ | \__ DONE write content            |        | 0:32 |
+ | \__ DONE revealjs slide           |        | 0:18 |
+ #+END:
+
+ ** DONE available tools research
+   CLOCK: [2014-04-30 Wed 18:09]--[2014-04-30 Wed 18:23] =>  0:14
+ ** DONE write content
+    CLOCK: [2014-05-01 Thu 18:26]--[2014-05-01 Thu 18:58] =>  0:32
+ ** DONE revealjs slide
+    CLOCK: [2014-05-01 Thu 19:37]--[2014-05-01 Thu 19:55] =>  0:18
+    CLOCK: [2014-05-01 Thu 19:20]--[2014-05-01 Thu 19:20] =>  0:00
+ ** TODO orgmode publishing
+    SCHEDULED: <2014-05-15 Thu>
+    CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 21:37] =>  0:00
+    CLOCK: [2014-05-15 Thu 16:40]--[2014-05-15 Thu 18:29] =>  1:49
+    CLOCK: [2014-05-15 Thu 16:33]--[2014-05-15 Thu 16:38] =>  0:05
+    CLOCK: [2014-05-15 Thu 14:42]--[2014-05-15 Thu 15:05] =>  0:23
+    CLOCK: [2014-05-15 Thu 14:21]--[2014-05-15 Thu 14:41] =>  0:20

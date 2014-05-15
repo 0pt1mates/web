@@ -1,0 +1,43 @@
+#+TITLE:     0PT1MATES LTD
+#+AUTHOR:    José Miguel Martínez Carrasco
+#+EMAIL:     jm@0pt1mates.com
+#+DATE:      2014-05-15 Thu
+#+DESCRIPTION: 0PT1MATES LTD web site.
+#+KEYWORDS: 0pt1mates, optimates, scala, cloud, data, big data, marklogic, jvm, sbt, nosql
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:(not LOGBOOK) todo:t pri:nil tags:t
+
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+XSLT:
+
+#+LINK_HOME: http://www.0pt1mates.com
+#+LINK_UP: http://www.0pt1mates.com
+#+INFOJS_OPT: view:showall toc:nil ltoc:nil mouse:underline path:http://orgmode.org/org-info.js
+#+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon/favicon32px.png" />
+#+HTML_HEAD: <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+#+HTML_HEAD: <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+#+HTML_HEAD: <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+#+HTML: <img src="./img/logos/forwebnobackground.png" alt="logo" />
+
+* Abstract
+
+Software engineer with extensive experience in java projects, using a wide spectrum of
+technologies, tools and methodologies: jvm, scala, sbt, xml, relational and nosql databases, deployment
+automation, paas and iaas.
+
+Lorem ipsum.
+
+* About
+
+0pt1mates LTD registered in England No 8851502
+
+Unit 11, Hove Business Centre
+
+Fonthill Road, Hove
+
+East Sussex
+
+BN3 6HA
