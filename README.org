@@ -21,26 +21,29 @@ There is a good summary of some of them [[http://staticgen.com/][here]].
 But finally I decided to go for [[%20http://lab.hakim.se/reveal-js][reveal.js]] + [[http://orgmode.org][org-mode.]]
 
 
-* Org-mode publishing
-  CLOCK: [2014-05-15 Thu 21:37]
-
+* Org-mode and jekyll
 
  Proyecto.el content should be added to your *.emacs*, *.emacs.d/init.el* or *.emacs.d/personal/custom.el* if you are using [[https://github.com/bbatsov/prelude][Emacs Prelude]].
 
  #+INCLUDE: "./proyecto.el" src emacs-lisp
 
+Create a jekyll project:
+
+#+BEGIN_SRC bash
+$ jekyll new jekyll
+#+END_SRC
+
  * Time report
 
  #+BEGIN: clocktable :maxlevel 2 :scope subtree
- #+CAPTION: Clock summary at [2014-05-01 Thu 22:31]
- | Headline                          | Time   |      |
- |-----------------------------------+--------+------|
- | *Total time*                      | *1:04* |      |
- |-----------------------------------+--------+------|
- | Time report                       | 1:04   |      |
- | \__ DONE available tools research |        | 0:14 |
- | \__ DONE write content            |        | 0:32 |
- | \__ DONE revealjs slide           |        | 0:18 |
+ #+CAPTION: Clock summary at [2014-05-16 Fri 00:26]
+ | Headline                            | Time   |      |
+ |-------------------------------------+--------+------|
+ | *Total time*                        | *5:50* |      |
+ |-------------------------------------+--------+------|
+ | Org-mode and jekyll                 | 5:50   |      |
+ | \__ DONE org-mode publishing        |        | 3:01 |
+ | \__ DONE orgmode jekyll integration |        | 1:45 |
  #+END:
 
  ** DONE available tools research
@@ -50,10 +53,12 @@ But finally I decided to go for [[%20http://lab.hakim.se/reveal-js][reveal.js]] 
  ** DONE revealjs slide
     CLOCK: [2014-05-01 Thu 19:37]--[2014-05-01 Thu 19:55] =>  0:18
     CLOCK: [2014-05-01 Thu 19:20]--[2014-05-01 Thu 19:20] =>  0:00
- ** TODO orgmode publishing
-    SCHEDULED: <2014-05-15 Thu>
+** DONE org-mode publishing
+   CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 22:01] =>  0:24
     CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 21:37] =>  0:00
     CLOCK: [2014-05-15 Thu 16:40]--[2014-05-15 Thu 18:29] =>  1:49
     CLOCK: [2014-05-15 Thu 16:33]--[2014-05-15 Thu 16:38] =>  0:05
     CLOCK: [2014-05-15 Thu 14:42]--[2014-05-15 Thu 15:05] =>  0:23
     CLOCK: [2014-05-15 Thu 14:21]--[2014-05-15 Thu 14:41] =>  0:20
+** DONE orgmode jekyll integration
+  CLOCK: [2014-05-15 Thu 22:39]--[2014-05-16 Fri 00:24] =>  1:45

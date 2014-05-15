@@ -16,28 +16,37 @@
 #+LINK_UP: http://www.0pt1mates.com
 #+INFOJS_OPT: view:showall toc:nil ltoc:nil mouse:underline path:http://orgmode.org/org-info.js
 #+HTML_HEAD: <link rel="icon" type="image/png" href="./img/favicon/favicon32px.png" />
-#+HTML_HEAD: <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-#+HTML_HEAD: <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-#+HTML_HEAD: <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
-#+HTML: <img src="./img/logos/forwebnobackground.png" alt="logo" />
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+layout: default
+title: home
+excerpt: 0pt1mates web site.
+---
+#+END_HTML
 
-* Abstract
+#+HTML: <img src="img/logos/forwebnobackground.png" alt="logo" />
 
-Software engineer with extensive experience in java projects, using a wide spectrum of
-technologies, tools and methodologies: jvm, scala, sbt, xml, relational and nosql databases, deployment
-automation, paas and iaas.
+#+HTML: <center>scala : data : cloud</center>
 
-Lorem ipsum.
+* Technologist
 
-* About
+We love technology and so we are happy applying our extensive experience implementing java based solutions for our customers.
 
-0pt1mates LTD registered in England No 8851502
+* Functional
 
-Unit 11, Hove Business Centre
+We have an appetite for the elegance provided by functional programming and so we enjoy coding in scala, delivering a clean solution without sacrificing the power and stability of the Java Virtual Machine (JVM).
 
-Fonthill Road, Hove
+* Craftmanship
 
-East Sussex
+We prefer to pick up the right tool for the right problem and so we have explored the possibilities of available software to build scala projects, to deploy binaries, to speed up the development process from inception to production.
 
-BN3 6HA
+* XML
+
+At the same time we appreciate the value provided by existing solutions to represent data, validate it and transform it.
+
+* Cloud
+
+We think the facilities provided by cloud computing set the limit to our own imagination.
