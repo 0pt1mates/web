@@ -53,12 +53,13 @@ $ jekyll new jekyll
  ** DONE revealjs slide
     CLOCK: [2014-05-01 Thu 19:37]--[2014-05-01 Thu 19:55] =>  0:18
     CLOCK: [2014-05-01 Thu 19:20]--[2014-05-01 Thu 19:20] =>  0:00
-** DONE org-mode publishing
+ ** DONE org-mode publishing
+
    CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 22:01] =>  0:24
     CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 21:37] =>  0:00
     CLOCK: [2014-05-15 Thu 16:40]--[2014-05-15 Thu 18:29] =>  1:49
     CLOCK: [2014-05-15 Thu 16:33]--[2014-05-15 Thu 16:38] =>  0:05
     CLOCK: [2014-05-15 Thu 14:42]--[2014-05-15 Thu 15:05] =>  0:23
     CLOCK: [2014-05-15 Thu 14:21]--[2014-05-15 Thu 14:41] =>  0:20
-** DONE orgmode jekyll integration
+ ** DONE orgmode jekyll integration
   CLOCK: [2014-05-15 Thu 22:39]--[2014-05-16 Fri 00:24] =>  1:45
