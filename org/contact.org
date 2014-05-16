@@ -1,4 +1,4 @@
-#+TITLE:     About 0PT1MATES LTD
+#+TITLE:     Contact 0PT1MATES LTD
 #+AUTHOR:    José Miguel Martínez Carrasco
 #+EMAIL:     jm@0pt1mates.com
 #+DATE:      2014-05-15 Thu
@@ -22,19 +22,15 @@
 #+BEGIN_HTML
 ---
 layout: page
-title: about
+title: contact
 excerpt: 0pt1mates web site.
 ---
 #+END_HTML
 
-#+BEGIN_EXAMPLE
-0pt1mates LTD registered in England No 8851502
+In case you want to get more information about our services and how we can help you, please do not hesitate to contact us by email:
 
-Unit 11, Hove Business Centre
+#+BEGIN_SRC
+José Miguel Martínez
 
-Fonthill Road, Hove
-
-East Sussex
-
-BN3 6HA
-#+END_EXAMPLE
+jm@0pt1mates.com
+#+END_SRC

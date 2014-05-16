@@ -27,26 +27,38 @@ excerpt: 0pt1mates web site.
 ---
 #+END_HTML
 
-#+HTML: <img src="img/logos/forwebnobackground.png" alt="logo" />
+#+HTML: <img src="/img/logos/forwebnobackground.png" alt="logo" />
 
-#+HTML: <center>scala : data : cloud</center>
+#+HTML: <center><h2>scala : data : cloud</h2></center>
 
 * Technologist
 
 We love technology and so we are happy applying our extensive experience implementing java based solutions for our customers.
 
+The [[https://en.wikipedia.org/wiki/Java_Virtual_Machine][Java Virtual Machine]] (JVM) has been tested in all imaginable scanarios and has proved to be reliable, secure and efficient.
+
 * Functional
 
-We have an appetite for the elegance provided by functional programming and so we enjoy coding in scala, delivering a clean solution without sacrificing the power and stability of the Java Virtual Machine (JVM).
+We have an appetite for the elegance provided by [[https://en.wikipedia.org/wiki/Functional_programming][functional programming]] and so we enjoy coding in [[http://scala-lang.org/][Scala]], delivering a clean solution without sacrificing the power and stability of the [[https://en.wikipedia.org/wiki/Java_Virtual_Machine][Java Virtual Machine]] (JVM).
+
+We found that using scala we can deliver a solution with much less lines of code than java, and a simpler solution is always easier to maintain and reduces the chances of misbehaviour.
+
+All that without losing the functionality provided by popular java libraries.
 
 * Craftmanship
 
 We prefer to pick up the right tool for the right problem and so we have explored the possibilities of available software to build scala projects, to deploy binaries, to speed up the development process from inception to production.
 
+We pursue above average solutions and to accomplish it we dedicate time and efforts to master our most popular tools, which allows us to deliver high quality solutions that satisfy our clients needs.
+
 * XML
 
 At the same time we appreciate the value provided by existing solutions to represent data, validate it and transform it.
 
+We plenty of experience working with data in XML format, we know how to use the wide range of tools and techniques to implement [[https://en.wikipedia.org/wiki/Extract,_transform,_load][Extract, Transform and Load]] (ETL) jobs that will prepare data to be processed to find patterns, extract business valuable information and whatever data scientist will dream of.
+
 * Cloud
 
-We think the facilities provided by cloud computing set the limit to our own imagination.
+We think the facilities provided by [[https://en.wikipedia.org/wiki/Cloud_computing][cloud computing]] set the limit to our own imagination.
+
+We have experience working with the most popular [[https://en.wikipedia.org/wiki/Cloud_computing#Platform_as_a_service_.28PaaS.29][Platform As A Service]] (PaaS) and [[https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29][Infrastructure As A Service]] (IaaS) providers.
