@@ -42,17 +42,18 @@ $ rvm use 1.9.3-p194
 * Time report
 
  #+BEGIN: clocktable :maxlevel 2 :scope subtree
- #+CAPTION: Clock summary at [2014-05-16 Fri 15:00]
+ #+CAPTION: Clock summary at [2014-05-16 Fri 15:23]
  | Headline                            | Time   |      |
  |-------------------------------------+--------+------|
- | *Total time*                        | *7:03* |      |
+ | *Total time*                        | *7:19* |      |
  |-------------------------------------+--------+------|
- | Time report                         | 7:03   |      |
+ | Time report                         | 7:19   |      |
  | \__ DONE available tools research   |        | 0:14 |
  | \__ DONE write content              |        | 1:45 |
  | \__ DONE revealjs slide             |        | 0:18 |
  | \__ DONE org-mode publishing        |        | 3:01 |
  | \__ DONE orgmode jekyll integration |        | 1:45 |
+ | \__ DONE css tunning                |        | 0:16 |
  #+END:
 
 ** DONE available tools research
@@ -72,3 +73,5 @@ $ rvm use 1.9.3-p194
    CLOCK: [2014-05-15 Thu 14:21]--[2014-05-15 Thu 14:41] =>  0:20
 ** DONE orgmode jekyll integration
    CLOCK: [2014-05-15 Thu 22:39]--[2014-05-16 Fri 00:24] =>  1:45
+** DONE css tunning
+   CLOCK: [2014-05-16 Fri 15:07]--[2014-05-16 Fri 15:23] =>  0:16

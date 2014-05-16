@@ -31,11 +31,15 @@ excerpt: 0pt1mates web site.
 
 #+HTML: <center><h2>scala : data : cloud</h2></center>
 
+#+HTML: <br/>
+
 * Technologist
 
 We love technology and so we are happy applying our extensive experience implementing java based solutions for our customers.
 
 The [[https://en.wikipedia.org/wiki/Java_Virtual_Machine][Java Virtual Machine]] (JVM) has been tested in all imaginable scanarios and has proved to be reliable, secure and efficient.
+
+#+HTML: <br/>
 
 * Functional
 
@@ -45,17 +49,23 @@ We found that using scala we can deliver a solution with much less lines of code
 
 All that without losing the functionality provided by popular java libraries.
 
+#+HTML: <br/>
+
 * Craftmanship
 
 We prefer to pick up the right tool for the right problem and so we have explored the possibilities of available software to build scala projects, to deploy binaries, to speed up the development process from inception to production.
 
 We pursue above average solutions and to accomplish it we dedicate time and efforts to master our most popular tools, which allows us to deliver high quality solutions that satisfy our clients needs.
 
+#+HTML: <br/>
+
 * XML
 
 At the same time we appreciate the value provided by existing solutions to represent data, validate it and transform it.
 
 We plenty of experience working with data in XML format, we know how to use the wide range of tools and techniques to implement [[https://en.wikipedia.org/wiki/Extract,_transform,_load][Extract, Transform and Load]] (ETL) jobs that will prepare data to be processed to find patterns, extract business valuable information and whatever data scientist will dream of.
+
+#+HTML: <br/>
 
 * Cloud
 
