@@ -5,6 +5,7 @@ description: "Building solutions to release the power of data.<br/>Proven expert
 baseurl: ""
 url: "http://www.0pt1mates.com"
 username: 0pt1mates
+company: 0PT1MATES LTD
 
 # Build settings
 markdown: kramdown

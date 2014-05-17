@@ -31,10 +31,7 @@ excerpt: 0pt1mates web site.
 0pt1mates LTD registered in England No 8851502
 
 Unit 11, Hove Business Centre
-
 Fonthill Road, Hove
-
 East Sussex
-
 BN3 6HA
 #+END_EXAMPLE

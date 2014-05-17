@@ -29,8 +29,10 @@ excerpt: 0pt1mates web site.
 
 In case you want to get more information about our services and how we can help you, please do not hesitate to contact us by email:
 
-#+BEGIN_SRC
-José Miguel Martínez
-
-jm@0pt1mates.com
-#+END_SRC
+#+BEGIN_HTML
+<pre class="example">
+José Miguel Martínez Carrasco
+Director
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+</pre>
+#+END_HTML
