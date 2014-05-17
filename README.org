@@ -38,3 +38,10 @@ Until I find a better solution, wherever I am using RVM to manage ruby versions,
 #+BEGIN_SRC bash
 $ rvm use 1.9.3-p194
 #+END_SRC
+
+
+* License
+
+Copyright (c) 2014 0PT1MATES LTD.
+
+See the LICENSE.txt file for license rights and limitations (Apache Version 2.0).
