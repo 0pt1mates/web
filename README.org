@@ -1,5 +1,6 @@
 #+author: José Miguel Martínez Carrasco
 #+email: jm@0pt1mates.com
+#+EXPORT_EXCLUDE_TAGS: noexport
 
 * Introduction
 
@@ -40,7 +41,7 @@ Copyright (c) 2014 0PT1MATES LTD.
 
 See the LICENSE.txt file for license rights and limitations (Apache Version 2.0).
 
-* Time report
+* Time report                                                      :noexport:
 
  #+BEGIN: clocktable :maxlevel 2 :scope subtree
  #+CAPTION: Clock summary at [2014-07-27 Sun 23:35]
