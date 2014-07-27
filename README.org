@@ -77,4 +77,3 @@ See the LICENSE.txt file for license rights and limitations (Apache Version 2.0)
    CLOCK: [2014-05-15 Thu 22:39]--[2014-05-16 Fri 00:24] =>  1:45
 ** DONE css tunning
    CLOCK: [2014-05-16 Fri 15:07]--[2014-05-16 Fri 15:23] =>  0:16
->>>>>>> Updating readme.
