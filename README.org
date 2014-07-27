@@ -43,16 +43,16 @@ See the LICENSE.txt file for license rights and limitations (Apache Version 2.0)
 * Time report
 
  #+BEGIN: clocktable :maxlevel 2 :scope subtree
- #+CAPTION: Clock summary at [2014-05-16 Fri 15:23]
+ #+CAPTION: Clock summary at [2014-07-27 Sun 23:35]
  | Headline                            | Time   |      |
  |-------------------------------------+--------+------|
- | *Total time*                        | *7:19* |      |
+ | *Total time*                        | *7:31* |      |
  |-------------------------------------+--------+------|
- | Time report                         | 7:19   |      |
+ | Time report                         | 7:31   |      |
  | \__ DONE available tools research   |        | 0:14 |
  | \__ DONE write content              |        | 1:45 |
  | \__ DONE revealjs slide             |        | 0:18 |
- | \__ DONE org-mode publishing        |        | 3:01 |
+ | \__ DONE org-mode publishing        |        | 3:13 |
  | \__ DONE orgmode jekyll integration |        | 1:45 |
  | \__ DONE css tunning                |        | 0:16 |
  #+END:
@@ -66,7 +66,7 @@ See the LICENSE.txt file for license rights and limitations (Apache Version 2.0)
    CLOCK: [2014-05-01 Thu 19:37]--[2014-05-01 Thu 19:55] =>  0:18
    CLOCK: [2014-05-01 Thu 19:20]--[2014-05-01 Thu 19:20] =>  0:00
 ** DONE org-mode publishing
-   CLOCK: [2014-07-27 Sun 23:23]
+   CLOCK: [2014-07-27 Sun 23:23]--[2014-07-27 Sun 23:35] =>  0:12
    CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 22:01] =>  0:24
    CLOCK: [2014-05-15 Thu 21:37]--[2014-05-15 Thu 21:37] =>  0:00
    CLOCK: [2014-05-15 Thu 16:40]--[2014-05-15 Thu 18:29] =>  1:49
